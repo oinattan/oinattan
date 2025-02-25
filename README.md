@@ -2,7 +2,7 @@
 
 # Sobre Mim
 
-Olá! 👋 Eu sou Natan, empresário e CEO da NKS Criactive Design. Sou um profissional apaixonado por desenvolvimento web e Design Gráfico, com experiência sólida em Photoshop, PHP, HTML, CSS e em ascensão ao ADVPL.
+Olá! 👋 Eu sou Natan, empresário e CEO da NKS Criactive Design. Sou um profissional apaixonado por desenvolvimento Web e Design Gráfico, com experiência sólida em Photoshop, PHP, HTML, CSS e em ascensão ao ADVPL.
 
 ## Experiência Profissional
 
@@ -37,7 +37,7 @@ Se você busca um profissional comprometido, criativo e apaixonado por design, e
 
 - Email: nattangg27@gmail.com
 - LinkedIn: Natan Gomes (www.linkedin.com/in/oinattan)
-- Site: Criactive Design(https://nks.criactivedesign.com.br)
+- Site: Criactive Design(https://criactivedesign.com.br)
 
 ## Contribuições
 
