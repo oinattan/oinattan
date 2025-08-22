@@ -25,9 +25,8 @@ Olá! 👋 Eu sou Natan, empresário e CEO da NKS Criactive Design. Sou um profi
 
 ## Contato
 
-- Email: nattangg27@gmail.com
 - LinkedIn: Natan Gomes (www.linkedin.com/in/oinattan)
-- Site: Criactive Design(https://criactivedesign.com.br)
+- Site: NKS Criactive Design(https://criactivedesign.com.br)
 
 ## Contribuições
 
