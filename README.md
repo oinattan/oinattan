@@ -1,59 +1,60 @@
-# Dear Reader, eu sou o Natan! 👋
+# Olá, eu sou o Natan! 👋
 
-Sou um **desenvolvedor versátil** com um histórico comprovado na entrega de projetos web robustos. Minha paixão é arquitetar soluções digitais de ponta a ponta, combinando minha sólida experiência em **back-end com PHP/CodeIgniter 4 - Laravel** com a criação de **front-ends modernos e interativos em React e Next.js**.
+Sou **Engenheiro de Software** focado em arquitetura backend, lógica de negócios robusta ("Back-of-Front") e integração de ecossistemas corporativos. Meu principal diferencial é unir a solidez e as regras de negócio de **ERPs tradicionais (Totvs Protheus/ADVPL)** à flexibilidade e performance do ecossistema web moderno (**PHP/Laravel/CodeIgniter, Node.js e APIs RESTful**).
 
-Acredito que a melhor solução é aquela que resolve um problema real, seja automatizando um fluxo com **N8N**, orquestrando um ambiente com **Docker** ou integrando com sistemas corporativos via **ADVPL**.
+Acredito em engenharia orientada a resultados: automação de fluxos complexos (n8n), otimização de bancos de dados relacionais e desenho de arquiteturas modulares e escaláveis (Multi-tenant/SaaS).
 
+---
 
-### 🛠️ Principais Habilidades (Tech Stack)
+### 🛠️ Tech Stack & Ecossistema
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Back-End** | PHP, CodeIgniter 4, Laravel | Node.js (Básico), Python (Básico) |
-| **Front-End** | React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS |
-| **Banco de Dados** | MySQL, PostgreSQL, SSMS |
-| **DevOps & Automação** | Docker, Git & GitHub, N8N |
-| **ERP** | ADVPL (Em desenvolvimento) |
+| **Enterprise & ERP** | Totvs Protheus, ADVPL, TLPP, Protheus MVC |
+| **Back-End & APIs** | PHP (Laravel, CodeIgniter 4), Node.js, Python |
+| **Arquitetura & Web** | Desenvolvimento de APIs RESTful, Webhooks, Multi-tenant (SaaS), React, Next.js, Tailwind CSS |
+| **Bancos de Dados** | SQL Server (SSMS), MySQL, PostgreSQL (Otimização de Queries & Procedures) |
+| **DevOps & Automação** | Git & GitHub Actions (CI/CD), Docker, n8n (Automação de Workflows) |
 
+---
 
-### ✨ Projetos em Destaque
+### 🚀 Experiência Comercial em Destaque
 
-#### 1. MILANFLEX
-- **Descrição:** Sistema web completo com CMS customizado construído com uma arquitetura MVC robusta. A aplicação conta com autenticação de usuários, gestão completa do website no CMS e geração de relatórios.
-- **Tecnologias:** PHP, CodeIgniter 4, MySQL, Bootstrap.
-- **🔗 Link para o projeto:** https://milanflex.com.br/
+**Desenvolvedor Full Stack Jr. / Analista Protheus** | *Palusa Distribuidora de Auto Peças*
+- Desenvolvimento de customizações críticas e rotinas em **ADVPL (MVC)** sobre o ERP Totvs Protheus.
+- Construção e sustentação de **APIs REST** para integração do ERP com plataformas web externas, automatizando fluxos logísticos e financeiros.
+- Otimização de performance em bancos de dados relacionais e redução de gaps estruturais em produção.
 
-#### 2. Meu Portfolio
-- **Descrição:** Landing page interativa para exibir todos os meu projetos. Este projeto foi meu primeiro passo prático para aplicar conceitos de componentização e hooks em React.
-- **Tecnologias:** React, Next.js, REST API.
-- **🔗 Link para o projeto:** https://natangomes.dev/
+**Desenvolvedor Web / Backend** | *NKS Criactive Design*
+- Arquitetura backend e desenvolvimento de sistemas integrados de e-commerce e gerenciadores de conteúdo (CMS) customizados em PHP/CodeIgniter.
+- Criação de soluções focadas em alta disponibilidade, lógica de negócios complexa e segurança de dados.
 
+---
 
-### 🚀 Experiência Profissional
+### 📦 Projetos & Arquiteturas
 
-**Desenvolvedor Web Freelancer | Criactive Design**
-*(2022 - Atualmente)*
+#### 1. Milanflex
+- **Escopo:** Sistema corporativo completo com CMS customizado construído sob uma arquitetura MVC altamente robusta. Conta com módulos de autenticação segura, gestão granular de dados e motores de relatórios.
+- **Stack:** PHP (CodeIgniter 4), MySQL, Bootstrap.
+- **🔗 Link:** [milanflex.com.br](https://milanflex.com.br/)
 
-- Responsável pelo ciclo completo de desenvolvimento de projetos web, desde o levantamento de requisitos com clientes até a implantação e manutenção.
-- Desenvolvi um CMS customizado utilizando PHP e CodeIgniter 4.
-- Criei APIs RESTful para integrar sistemas e permitir o consumo de dados por diferentes plataformas.
+#### 2. Plataformas SaaS & Automações (Em Desenvolvimento Constante)
+- **Escopo:** Desenvolvimento independente de ecossistemas automatizados com arquitetura multi-tenant, isolamento de bases de dados, integrações de checkouts multi-moedas e pipelines de CI/CD automatizados com GitHub Actions.
+- **Stack:** Laravel, Node.js, n8n, React.
 
+---
 
-### 🌱 Meus Objetivos Atuais
+### 🌱 Foco Atual de Desenvolvimento
 
-Estou sempre aprendendo e me desafiando. No momento, meus estudos estão focados em:
+- **Sustentabilidade e Performance em ERPs:** Técnicas avançadas de otimização de queries e concorrência no Protheus.
+- **Arquitetura de Integração:** Padrões de microsserviços, mensageria e resiliência de dados entre sistemas Legados e Web.
 
-- **Aprofundar em React e Next.js:** Foco em gerenciamento de estado avançado, testes e otimização de performance.
+---
 
+### 📬 Vamos nos conectar?
 
-## Contato
+- **LinkedIn:** [Natan Gomes (oinattan)](https://www.linkedin.com/in/oinattan)
+- **Portfólio / Site:** [natangomes.dev](https://natangomes.dev)
 
-- LinkedIn: Natan Gomes (www.linkedin.com/in/oinattan)
-- Site: Natan Gomes (https://natangomes.dev)
-
-
-## Contribuições
-
-Sinta-se à vontade para explorar meus repositórios no GitHub e contribuir para projetos interessantes. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato.
-
-Obrigado por visitar meu perfil!
+---
+⚡ *"A melhor interface é uma lógica de back-end invisível, resiliente e altamente eficiente."*
